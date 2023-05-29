@@ -9,4 +9,6 @@ Upcoming updates:
 Dataset:
 TinyStories dataset had two part ```1. GPT-3.5 Turbo generated dataset`` and ``2.GPT-4 generated dataset`` Including both will take a hue amount of space that's why, I am giving only **GPT-3.5 Turbo** dataset. [Google Drive Link](https://drive.google.com/drive/folders/12ZeAVOzuk3W_R0pBr-fXQkbTP_WRJUEx?usp=sharing)
 
+**In the Google Drive link provided in the datasets section, you find both GPT-3.5 (Turbo) and GPT-4 datasets used by the paper's autors'**
+
 Please, star the repository if you find it helpful and help others to find it. [Paper Link](https://arxiv.org/abs/2305.07759)
