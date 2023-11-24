@@ -6,6 +6,9 @@ Upcoming updates:
 * Providing training script
 * ~~providing TinyStories dataset in `.txt` format~~
 
+Current Updates:
+* Torchscale library method added for coding LLM of any amount params at ease. notebook: https://github.com/sleepingcat4/TinyStories/blob/master/alright!_calculated_param.ipynb
+
 Dataset:
 TinyStories dataset had two part ```1. GPT-3.5 Turbo generated dataset`` and ``2.GPT-4 generated dataset`` Including both will take a hue amount of space that's why, I am giving only **GPT-3.5 Turbo** dataset. [Google Drive Link](https://drive.google.com/drive/folders/12ZeAVOzuk3W_R0pBr-fXQkbTP_WRJUEx?usp=sharing)
 
